@@ -15,9 +15,7 @@
 //
 //import static org.junit.Assert.*;
 //
-///**
-// * Created By Zhu Lin on 3/9/2018.
-// */
+///
 //@RunWith(SpringRunner.class)
 //@SpringBootTest
 //public class ProductCategoryRepositoryTest {
